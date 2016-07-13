@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Etude : PAV/ PV</string>
+    <string-array name="spinner">
+        <item>Radiateur</item>
+        <item>Convecteur</item>
+        <item>Pompe à chaleur</item>
+        <item>Pompe à chaleur géothermie</item>
+        <item>Pompe à chaleur aerothermie</item>
+        <item>Air Systéme</item>
+    </string-array>
+    <string-array name="spinnergaz">
+        <item>Gaz de ville</item>
+        <item>Gaz propane</item>
+        <item>Gaz Butane</item>
+    </string-array>
+    <string-array name="spinnerbois">
+        <item>poéle à Bois</item>
+        <item>poéle à granulé</item>
+        <item>poéle à pelé</item>
+        <item>Insert</item>
+    </string-array>
+</resources>
